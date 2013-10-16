@@ -1,4 +1,4 @@
 .vagrant
-server/server.log
-server/server.log.lck
+server/crash-reports
+server/logs
 server/world
