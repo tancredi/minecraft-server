@@ -1,4 +1,4 @@
-server.jar
-server.log
-server.log.lck
-world
+.vagrant
+server/server.log
+server/server.log.lck
+server/world
